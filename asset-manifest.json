@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.984570e6.css",
+    "main.js": "/frontend/static/js/main.b17ae889.js",
+    "static/js/787.cda612ba.chunk.js": "/frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/frontend/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bg2.png": "/frontend/static/media/bg2.f33e63feffa8a4d0343a.png",
+    "static/media/Carousel2.png": "/frontend/static/media/Carousel2.af27e24a60a30bd96f16.png",
+    "static/media/fontawesome-webfont.eot": "/frontend/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/frontend/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/frontend/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/frontpro1.jpeg": "/frontend/static/media/frontpro1.d5a851dac120805c98d1.jpeg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/frontend/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo2.png": "/frontend/static/media/logo2.b20d392172dbba09ddb6.png",
+    "static/media/profile.jpg": "/frontend/static/media/profile.6defe2ba6e96e7bad5b4.jpg",
+    "index.html": "/frontend/index.html",
+    "main.984570e6.css.map": "/frontend/static/css/main.984570e6.css.map",
+    "main.b17ae889.js.map": "/frontend/static/js/main.b17ae889.js.map",
+    "787.cda612ba.chunk.js.map": "/frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984570e6.css",
+    "static/js/main.b17ae889.js"
+  ]
+}
