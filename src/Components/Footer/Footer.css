@@ -1,0 +1,37 @@
+#footer .footer-brand{
+    color: rgba(230, 217, 152);
+ }
+ #footer .footer-brand-text{
+    color: #fff;
+ }
+ #footer .btn{
+    background-color: rgba(230, 217, 152);
+    color: #212529;
+ }
+ #footer .btn:hover{
+    background-color: transparent;
+    color: rgba(230, 217, 152);
+ }
+ 
+ @media screen and (max-width: 685px) {
+    #footer .footer-brand {
+       text-align: center;
+ 
+    }
+    #footer footer{
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+    }
+    #footer h5{
+       padding-top: 10px;
+    }
+    #footer .btn-section{
+       text-align: center;
+       justify-content: center;
+       align-items: center;
+ 
+    }
+ }
+ 
+ 

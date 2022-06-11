@@ -1,0 +1,17 @@
+#latestproducts .col-lg-4{
+    width: 26%;
+}
+
+#latestproducts .container{
+    width: 70%;
+}
+
+@media screen and (max-width: 700px) {
+    #latestproducts .d-flex{
+        display: block !important;
+    }
+
+    #latestproducts .container{
+        width: 50% !important;
+    }
+}

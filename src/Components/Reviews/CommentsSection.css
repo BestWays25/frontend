@@ -1,0 +1,56 @@
+#userscomments .card{
+	
+	background-color: #fff;
+	border: none;
+}
+
+#userscomments .form-color{
+  
+   background-color: #fafafa;
+
+}
+
+#userscomments .form-control{
+
+	height: 48px;
+	border-radius: 25px;
+}
+
+#userscomments .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #35b69f;
+    outline: 0;
+    box-shadow: none;
+    text-indent: 10px;
+}
+
+#userscomments .c-badge{
+	background-color: #35b69f;
+    color: white;
+    height: 20px;
+    font-size: 11px;
+    width: 92px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    margin-left: 20px;
+}
+
+#userscomments .comment-text{
+	font-size: 13px;
+}
+
+#userscomments .wish{
+
+	color:#35b69f;
+}
+
+
+#userscomments .user-feed{
+
+	    font-size: 14px;
+	    margin-top: 12px;
+}
